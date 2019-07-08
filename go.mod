@@ -1,4 +1,4 @@
-module github.com/drone/drone-runtime
+module github.com/MelvinStephen/drone-runtime
 
 require (
 	docker.io/go-docker v1.0.0
